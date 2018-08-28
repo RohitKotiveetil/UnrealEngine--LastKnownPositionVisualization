@@ -1,5 +1,5 @@
 # UnrealEngine--LastKnownPositionVisualization
-A blueprint framework for visualizing the player character's last known position (inspired by Splinter Cell: Conviction) in Unreal Engine.
+A blueprint framework for visualizing the player character's last known position (inspired by Splinter Cell: Conviction) in Unreal Engine v4.20.
 
 Preview Video: https://www.youtube.com/watch?v=DvVe5EJwLQI
 
