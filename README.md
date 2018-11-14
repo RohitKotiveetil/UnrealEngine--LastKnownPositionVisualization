@@ -5,4 +5,4 @@ A blueprint framework for visualizing the player character's last known position
 
 **Preview Video:** https://www.youtube.com/watch?v=DvVe5EJwLQI
 
-**This project is licensed under the Unreal Engine 4 EULA.**
+(Content in this project may only be used in Unreal Engine projects as per the Unreal Engine 4 EULA)
