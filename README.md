@@ -7,4 +7,4 @@ Optimized for Unreal Engine 5.0
 
 **Preview Video:** https://www.youtube.com/watch?v=DvVe5EJwLQI
 
-(Content in this project may only be used in Unreal Engine projects as per the Unreal Engine 4/5 EULA)
+(Content in this project may only be used in Unreal Engine projects as per the Unreal Engine EULA)
